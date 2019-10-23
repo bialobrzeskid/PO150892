@@ -2,12 +2,18 @@
 {
     class Car
     {
-        string model;
-
-        public Car(string model)
+        public Car()
         {
-            this.model = model;
-        
+            RokProdukcji = 2016;
+
         }
+        public Car(int rokProdukcji)
+        {
+            RokProdukcji = rokProdukcji;
+        }
+
+        public int RokProdukcji;
+        public string Marka;
+        
     }
 }

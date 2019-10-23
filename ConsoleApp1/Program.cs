@@ -11,6 +11,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Witaj Swiecie");
+            string carName = "Moj zamochod";
+            Console.WriteLine(carName);
+            Car autko = new Car(2016);  
+            Console.WriteLine(autko.RokProdukcji);
+
         }
     }
 }

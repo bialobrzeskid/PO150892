@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\dodawanie-zajecia3\dodawanie-zajecia3\bin\Debug\dodawanie-zajecia3.exe.config
+C:\Users\Daniel\source\repos\dodawanie-zajecia3\dodawanie-zajecia3\bin\Debug\dodawanie-zajecia3.exe
+C:\Users\Daniel\source\repos\dodawanie-zajecia3\dodawanie-zajecia3\bin\Debug\dodawanie-zajecia3.pdb
+C:\Users\Daniel\source\repos\dodawanie-zajecia3\dodawanie-zajecia3\obj\Debug\dodawanie-zajecia3.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\dodawanie-zajecia3\dodawanie-zajecia3\obj\Debug\dodawanie-zajecia3.exe
+C:\Users\Daniel\source\repos\dodawanie-zajecia3\dodawanie-zajecia3\obj\Debug\dodawanie-zajecia3.pdb

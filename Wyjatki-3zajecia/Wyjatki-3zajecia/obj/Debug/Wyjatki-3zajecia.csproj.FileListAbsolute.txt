@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\Wyjatki-3zajecia\Wyjatki-3zajecia\obj\Debug\Wyjatki-3zajecia.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Wyjatki-3zajecia\Wyjatki-3zajecia\bin\Debug\Wyjatki-3zajecia.exe.config
+C:\Users\Daniel\source\repos\Wyjatki-3zajecia\Wyjatki-3zajecia\bin\Debug\Wyjatki-3zajecia.exe
+C:\Users\Daniel\source\repos\Wyjatki-3zajecia\Wyjatki-3zajecia\bin\Debug\Wyjatki-3zajecia.pdb
+C:\Users\Daniel\source\repos\Wyjatki-3zajecia\Wyjatki-3zajecia\obj\Debug\Wyjatki-3zajecia.exe
+C:\Users\Daniel\source\repos\Wyjatki-3zajecia\Wyjatki-3zajecia\obj\Debug\Wyjatki-3zajecia.pdb
